@@ -21,10 +21,10 @@ This project is a **testament to my evolution**, from basic static pages to buil
 ## 📂 Folder Structure  
 
 ## 🌟 Preview
-| Project | Preview                                                            |
-|---------|--------------------------------------------------------------------|
-| **Movie Ranking Project** | ![Movie Ranking Screenshot](Screenshot 2025-03-09 004853.png) |
-| **Birthday Invite Project** | ![Birthday Invite Screenshot](Screenshot 2025-03-09 004903.png)                                    |
+| Project | Preview                                                           |
+|---------|-------------------------------------------------------------------|
+| **Movie Ranking Project** | ![Movie Ranking Screenshot](./Screenshot 2025-03-09 004853.png)   |
+| **Birthday Invite Project** | ![Birthday Invite Screenshot](./Screenshot 2025-03-09 004903.png) |
 
 ## 🔗 Live Demo
 If deployed, you can visit the site at: **[Your Portfolio Link](#)**
